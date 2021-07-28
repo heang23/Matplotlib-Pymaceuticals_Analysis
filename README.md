@@ -26,6 +26,4 @@ As a senior data analyst at the company, you've been given access to the complet
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
-### Copyright
 
-Trilogy Education Services © 2020. All Rights Reserved.
